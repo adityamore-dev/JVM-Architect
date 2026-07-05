@@ -23,6 +23,24 @@ The project simulates object allocation, object aging, generational memory space
 
 ---
 
+## Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/Menu.png)
+
+### Gameplay
+
+![Gameplay](screenshots/GamePlay.png)
+
+### Game Over Screen
+
+![Game Over](screenshots/GameOver.png)
+
+
+---
+
+
 ## Technologies Used
 
 - Java
